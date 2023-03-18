@@ -11,7 +11,7 @@ const IccGang = () => {
     <div>
       
    <div name='CLUB OFFICERS' class="bg-gradient-to-r from-blue-900 to-purple-900">
-<h3 class="pt-60 pb-20 text-center text-7xl text-white">CLUB OFFICERS</h3>
+<h3 class=" pt-20 pb-10 text-center text-7xl text-white">CLUB OFFICERS</h3>
 
 <div class="flex pb-60 items-center justify-center ">
 
