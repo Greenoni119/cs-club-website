@@ -24,7 +24,7 @@ a {
   text-decoration: none;
 }
 .bg{
-  background-image: url("../images/bg.gif");
+  background-image: url("../images/background.gif");
   background-repeat: no-repeat;
   background-size:cover ;
   background-position: center;
