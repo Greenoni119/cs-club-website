@@ -15,7 +15,7 @@ const IccGang = () => {
 
 <div class="flex pb-60 items-center justify-center ">
 
-  <div class="bg grid grid-cols-1  gap-5 md:grid-cols-2 lg:grid-cols-3 bg-white rounded-3xl ">
+  <div class=" grid grid-cols-1  gap-5 md:grid-cols-2 lg:grid-cols-3 rounded-3xl ">
     <div class=" m-10 group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
       <div class="h-96 w-72">
         <Image class="h-full w-full object-cover transition-transform duration-500 group-hover:rotate-3 group-hover:scale-125" src={Edan} alt="" />
