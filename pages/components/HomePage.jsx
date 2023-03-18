@@ -10,7 +10,7 @@ const HomePage = () => {
   return (
    
 <div>
-      <div className='grid pt-40 pb-10 w-full h-full justify-center'>
+      <div className='bg grid pt-40 pb-10 w-full h-full justify-center'>
 
 
 <div className='max-w-screen-lg text-center'>
