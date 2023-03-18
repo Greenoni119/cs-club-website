@@ -24,7 +24,7 @@ a {
   text-decoration: none;
 }
 .grid{
-  background-image: url("../bg.png");
+  background-image: url("../images/bg.png");
   background-repeat: no-repeat;
   background-size:cover ;
 }
