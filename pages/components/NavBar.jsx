@@ -26,7 +26,7 @@ const NavBar = () => {
     <div className=' fixed px-4 flex justify-between items-center w-full h-20 bg-purple-900 shadow-xl z-10 shadow-green-500'>
 
                 <div>
-                <a href='/' smooth duration={500}> <FaReact size={60} className='text-green-500'/></a>
+                <span href='/' smooth duration={500}> <FaReact size={60} className='text-green-500'/></span>
                 </div>
 {/*
 <ul className='float-right gap-10 hidden lg:flex'>

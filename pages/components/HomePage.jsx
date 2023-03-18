@@ -25,7 +25,7 @@ const HomePage = () => {
                     delay:1,
                   }}
                   >
-        <Image src={javascript} id='script' className=' lang h-40 w-80 float-left clear-right' />
+        <Image alt=''src={javascript} id='script' className=' lang h-40 w-80 float-left clear-right' />
         </motion.div>
 
         <motion.div
@@ -40,7 +40,7 @@ const HomePage = () => {
                   }}
                   >
 
-        <Image src={swift} id='swift' className='lang h-40 w-40 float-right' />
+        <Image alt='' src={swift} id='swift' className='lang h-40 w-40 float-right' />
         </motion.div>
 </div>
                 
@@ -169,7 +169,7 @@ Hello World
                     damping:20,
                     delay:1.6,
                   }}>
-        <Image src={C} id='cplus' className='lang pl-10 h-40 w-60 float-left clear-right' />
+        <Image alt='' src={C} id='cplus' className='lang pl-10 h-40 w-60 float-left clear-right' />
         </motion.div>
 
         <motion.div 
@@ -181,7 +181,7 @@ Hello World
                     damping:20,
                     delay:1.8,
                   }}>
-        <Image src={python} id='python' className='lang h-40 w-40 float-right' />
+        <Image alt='' src={python} id='python' className='lang h-40 w-40 float-right' />
          
         </motion.div>
 </div>

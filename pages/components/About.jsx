@@ -51,7 +51,7 @@ const About = () => {
 				<div class="container">
 					<div class="front">
 						<div class="inner">
-							<p>HACK-A-THON'S</p>
+							<p>HACK-A-THON&aposp;S</p>
 						</div>
 					</div>
 					<div class="back">
