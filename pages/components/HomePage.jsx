@@ -146,7 +146,7 @@ Hello World
     <rect width="929" height="153.072" rx="24" stroke="none"/>
     <rect x="5" y="5" width="919" height="143.072" rx="19" fill="none"/>
   </g>
-  <text id="Computer_science_club" data-name="Computer science club" transform="translate(165.368 693.309) rotate(-11)" fill="#28ce00" stroke="#0031ff" stroke-width="1" font-size="83" font-family="Impact"><tspan x="0" y="0">Computer science club</tspan></text>
+  <text id="Computer_science_club" data-name="Computer science club" transform="translate(165.368 693.309) rotate(-11)" fill="#28ce00" stroke="#0031ff" stroke-width="1" font-size="83" font-family="Impact"><tspan x="0" y="0">COMPUTER SCIENCE CLUB</tspan></text>
   <text id="_" data-name="&lt;&gt;
 
 &lt;/&gt;" transform="translate(276.989 360.501)" fill="#28ce00" font-size="35" font-family="AndaleMono, Andale Mono"><tspan x="0" y="0">&lt;&gt;</tspan><tspan x="0" y="40"></tspan><tspan x="0" y="80">&lt;/&gt;</tspan></text>
