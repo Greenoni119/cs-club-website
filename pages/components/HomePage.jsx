@@ -55,7 +55,7 @@ const HomePage = () => {
                   transition={{
                     type:"spring",
                     stiffness:260,
-                    damping:20,
+                    damping:40,
                     
                   }}
                   >
