@@ -7,7 +7,7 @@ const contact = () => {
        <h2 className='text-center text-green-500 text-6xl pt-10 pb-10'> CONTACT US </h2>
 
 <div className='m-10'>
-                    <form action='https://getform.io/f/c73b689e-c58f-4644-877c-e2c79096ae99' method='POST' className=' mx-auto flex flex-col w-full md:w-1/2'>
+                    <form action='https://getform.io/f/9c3d6c45-9606-452d-9adf-921581f8120d' method='POST' className=' mx-auto flex flex-col w-full md:w-1/2'>
                       <input type="text" name='Name' placeholder='Enter your name'className='p-2 bg-transparent border-4 border-green-500 text-green-500 focus:outline-none' />
                       <input type="text" name='Email' placeholder='Enter your Email'className=' my-4 p-2 p-2 bg-transparent border-4 border-green-500 text-green-500 focus:outline-none' />
                       <textarea name="Message" rows="10" placeholder='Enter your message' className='p-2 bg-transparent border-4 border-green-500 text-green-500 focus:outline-none'>

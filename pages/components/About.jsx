@@ -26,7 +26,7 @@ const About = () => {
 					</div>
 					<div class="back">
 						<div class="inner">
-						  <p className=''>Our club meetings are every monday at 1:10pm in biulding 17 room 112. </p>
+						  <p className=''>Our club meetings are every monday at 1:10pm in building 17 room 112. </p>
 						</div>
 					</div>
 				</div>
